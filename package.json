@@ -1,0 +1,22 @@
+{
+  "name": "monogo-contest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tooschee/monogo-contest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tooschee/monogo-contest/issues"
+  },
+  "homepage": "https://github.com/Tooschee/monogo-contest#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
